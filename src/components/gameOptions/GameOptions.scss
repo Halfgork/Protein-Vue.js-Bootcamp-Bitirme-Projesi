@@ -1,0 +1,14 @@
+.game-options{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__buttons{
+    &--generator{
+      margin-right: 0.5em;
+      border-color: #42b983;
+    }
+    &--starter{
+      border-color: darkred;
+    }
+  }
+}
