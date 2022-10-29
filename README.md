@@ -8,12 +8,8 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
@@ -44,30 +40,14 @@ List the ready features here:
 
 
 ## Setup
+
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd Protein-Vue.js-Bootcamp-Bitirme-Projesi
 yarn install
+yarn run serve
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 ## Contact
 Created by [@halfgork](https://www.linkedin.com/in/gorkemsakalak/) - feel free to contact me!
-
-
-
