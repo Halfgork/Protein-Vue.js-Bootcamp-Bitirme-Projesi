@@ -1,0 +1,8 @@
+.schedule-list{
+  display: flex;
+  flex-flow: column;
+  flex: 0 0 50%;
+  div{
+    flex: 0 0 50%;
+  }
+}
