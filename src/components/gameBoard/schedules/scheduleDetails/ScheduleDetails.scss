@@ -1,0 +1,29 @@
+.schedule-details{
+
+  &__header{
+    display: flex;
+    &--position{
+      flex: 0 0 15%;
+      text-align: center;
+          min-width: 40px;
+    }
+    &--name{
+      flex: 0 0 85%;
+      text-align: center;
+          min-width: 40px;
+    }
+  }
+  &__content{
+    display: flex;
+    &--position{
+      flex: 0 0 15%;
+      text-align: center;
+          min-width: 40px;
+    }
+    &--name{
+      flex: 0 0 85%;
+      text-align: center;
+          min-width: 40px;
+    }
+  }
+}
