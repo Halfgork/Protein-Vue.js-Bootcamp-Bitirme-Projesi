@@ -1,0 +1,10 @@
+.horse-list-details{
+  display: flex;
+  div{
+    flex: 0 0 33%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+  }
+}
