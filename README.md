@@ -1,4 +1,4 @@
-# horese_racing
+# horse_racing
 
 ## Project setup
 ```
