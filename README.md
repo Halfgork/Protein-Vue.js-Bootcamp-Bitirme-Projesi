@@ -35,7 +35,10 @@ List the ready features here:
 
 
 ## Screenshots
+Opening Scene
 ![OpeningScene](./img/OpeningScene.png)
+
+After use GenerateSchedule Button
 ![AfterGenerateSchedule](./img/AfterGenerateSchedule.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
