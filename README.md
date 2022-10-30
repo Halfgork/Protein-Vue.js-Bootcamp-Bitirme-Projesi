@@ -35,7 +35,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![OpeningScene](./img/OpeningScene.png)
+![AfterGenerateSchedule](./img/AfterGenerateSchedule.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
